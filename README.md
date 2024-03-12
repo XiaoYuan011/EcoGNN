@@ -6,7 +6,7 @@
 ![](https://img.shields.io/badge/cudnn-6.0-green)
  
 This repo provides a reference implementation of **EcoGNN** as described in the paper:
-> "EcoGNN: An Information Cascade Prediction Framework Combining Underlying Network and Topic Awareness"
+> "EcoGNN: An Information Cascade Prediction Framework"
 > This paper will be released soon
 
 ## Basic Usage
